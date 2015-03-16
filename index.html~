@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+     <title>Google</title>
+     <link rel="stylesheet" href="Style.css">
+</head>
+<div>
+<a href="www.google.com"><img src="logo11w.png" height="90" width="280">
+<form>
+<input type="Search" name="googlesearch" width="1000">
+</form>
+</div>
+
+</html>
